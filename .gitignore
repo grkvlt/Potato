@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings/
+application.*/
+data/
+images/
+save/
+target/
